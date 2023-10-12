@@ -1,0 +1,13 @@
+.testContainer {
+    display: flex;
+    padding: 1rm;
+}
+
+.testButton {
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    font-weight: bold;
+}

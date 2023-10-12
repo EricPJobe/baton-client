@@ -1,0 +1,27 @@
+.overlay-container {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding: 0.5em;
+}
+
+.left-bank {
+    position: absolute;
+    top: 4em;
+    right: 0;
+    width: 25%;
+    height: 100%;
+}
+
+.right-bank {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    top: 7em;
+    right: 0;
+    padding: 0;
+    width: 20%;
+    height: 100%;
+}
